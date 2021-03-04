@@ -1,11 +1,10 @@
-# Erlang STUDY LOG
+# Bash STUDY LOG
 
      code book
 + ```hello_world``` [[hello_world]] example.
-+ ...
++ ...다음 작업 목표, git 명령어 자동화하기
 
 [hello_world]: /code_book/do_hello.md
-
 
 
      tutorial book
