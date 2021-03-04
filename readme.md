@@ -5,7 +5,7 @@
 + ```do_git``` [[do_git]] git 명령어 커스터 마이징 코드.
 
 [hello_world]: /code_book/do_hello.md
-[hello_world]: /code_book/do_git.md
+[do_git]: /code_book/do_git.md
 
 
      tutorial book
