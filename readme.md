@@ -2,9 +2,10 @@
 
      code book
 + ```hello_world``` [[hello_world]] example.
-+ ...다음 작업 목표, git 명령어 자동화하기
++ ```do_git``` [[do_git]] git 명령어 커스터 마이징 코드.
 
 [hello_world]: /code_book/do_hello.md
+[hello_world]: /code_book/do_git.md
 
 
      tutorial book
