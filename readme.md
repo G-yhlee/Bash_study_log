@@ -2,8 +2,9 @@
 
      code book
 + ```hello_world``` [[hello_world]] example.
++ ...
 
-[hello_world]: /code_book/do_world.md
+[hello_world]: /code_book/do_hello.md
 
 
 
