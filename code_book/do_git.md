@@ -22,24 +22,15 @@ function g-log {
     git log --all --decorate --oneline --graph
 } # 해당 파일이 실행 됩니다
 function g-push {
-    echo '---status---'
-    echo ' '
+    echo '---status---\n'
     git status
-    echo ' '
     echo '---add all---'
-    echo ' '
     git add .
-    echo ' '
     echo "---commit msg: $1---"
-    echo ' '
     git commit -m $1
-    echo ' '
     echo "---push to main---"
-    echo ' '
     git push -u origin main
-    echo ' '
     echo "---LOG---"
-    echo ' '
     git log --all --decorate --oneline --graph  
 } # 해당 파일이 실행 됩니다
 
